@@ -1,18 +1,37 @@
 {
-    "Result": 1,
-    "Message": "Status",
-    "Data": [
+  "gets": [
+    {
+      "Result": 1,
+      "Message": "Status",
+      "Data": [
         {
-            "id": "1",
-            "nome": "Em atendimento"
+          "id": "1",
+          "nome": "Em atendimento"
         },
         {
-            "id": "2",
-            "nome": "Concluído"
+          "id": "2",
+          "nome": "Concluído"
         },
         {
-            "id": "3",
-            "nome": "Cancelado"
+          "id": "3",
+          "nome": "Cancelado"
         }
-    ]
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
