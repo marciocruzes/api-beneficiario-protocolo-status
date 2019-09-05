@@ -1,0 +1,18 @@
+{
+    "Result": 1,
+    "Message": "Status",
+    "Data": [
+        {
+            "id": "1",
+            "nome": "Em atendimento"
+        },
+        {
+            "id": "2",
+            "nome": "Concluído"
+        },
+        {
+            "id": "3",
+            "nome": "Cancelado"
+        }
+    ]
+}
